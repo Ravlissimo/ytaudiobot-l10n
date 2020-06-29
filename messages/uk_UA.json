@@ -2,13 +2,13 @@
     "position": 16,
     "right_to_left": false,
     "description": [
-        "Завантажуйте відео з YouTube лише як аудіо файли, щоб забрати їх з собою, де б ви не пішли!\\n\\n",
+        "Завантажуйте улюблене з YouTube як аудіо-доріжку, щоб мати з собою, де б ви не пішли!\\n\\n",
         "Дзеркало: @YTAudio_Bot"
     ],
-    "type_search_terms": "{MEMO} Введіть ваші терміни пошуку",
-    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} Шукати \\\"{terms}\\\" на YouTube",
-    "error": "{PENSIVE_FACE} Сталася помилка. Спробуйте знову пізніше.",
-    "longer_download_time": "{WARNING} **Це відео може зайняти більше часу, ніж зазвичай. Завантаження навіть може не вдатися!**",
+    "type_search_terms": "{MEMO} Введіть ваші дані для пошуку...",
+    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} Шукати \\\"{terms}\\\" на YouTube :)",
+    "error": "{PENSIVE_FACE} Сталася помилка. Спробуйте пізніше.",
+    "longer_download_time": "{WARNING} **Це завантаження може тривати більше часу аніж зазвичай. Завантаження навіть може не вдатися!**",
     "clear_history_warning": "{WARNING} Ви збираєтеся очистити усю вашу історію!",
     "history_settings": [
         "{HOURGLASS_DONE} **Історія завантажень**\\n\\n",
@@ -218,7 +218,7 @@
     "month_12": "Грудня",
     "start_button": "{CHEQUERED_FLAG} Почати",
     "language_button": "{FLAG_UKRAINE} Українська",
-    "file_info_button": "{PAGE_WITH_CURL} Докладніше",
+    "file_info_button": "{PAGE_WITH_CURL} Докладніше...",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Надіслати до...",
     "faq_button": "{BAR_CHART} ЧаПи",
     "like_button": "{THUMBS_UP} Мені подобається!",
